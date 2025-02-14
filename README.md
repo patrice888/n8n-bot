@@ -20,6 +20,8 @@ Dit project is een AI-gestuurde Telegram-bot gebouwd met **n8n**. De bot helpt g
 ### **Dag 1 - Maandag**  
 - n8n beginner module doorlopen.
 
+---
+
 ### **Dag 2 - Dinsdag**  
 - **Planning maken, Project idee verzinnen, User Stories schrijven**  
   - **User Story 1:**  
