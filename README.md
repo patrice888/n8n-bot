@@ -2,7 +2,8 @@
 
 Dit project is een AI-gestuurde Telegram-bot gebouwd met **n8n**. De bot helpt gebruikers met:  
 - Het plannen van afspraken in **Google Calendar**  
-- Het versturen van **Gmail-berichten**  
+- Het versturen van **Emails met Gmail**
+- Het ophalen en samenvatten van events in **Google Calender**
 - Het beantwoorden van vragen via **OpenAI's Chat Model**  
 
 ---
@@ -45,13 +46,17 @@ Dit project is een AI-gestuurde Telegram-bot gebouwd met **n8n**. De bot helpt g
 
 ### **Dag 3 - Woensdag**  
 - Standup met team.
-- Starten met User Story 1 en 2 bouwen.  
+- Starten met User Story 1 en 2 bouwen.
+
+---
 
 ### **Dag 4 - Donderdag**  
 - Standup met team.
 - Plan bijwerken.
 - User Story 3 starten en afmaken.
-- Afronden User Stories 1 en 2.  
+- Afronden User Stories 1 en 2.
+
+---
 
 ### **Dag 5 - Vrijdag**  
 - Standup met team.
