@@ -16,8 +16,11 @@ Dit project is een AI-gestuurde Telegram-bot gebouwd met **n8n**. De bot helpt g
 ---
 
 ## **Planning**  
+### **Dag 1 - Maandag**  
+- n8n beginner module doorlopen.
+
 ### **Dag 2 - Dinsdag**  
-- **Planning maken en User Stories schrijven**  
+- **Planning maken, Project idee verzinnen, User Stories schrijven**  
   - **User Story 1:**  
     Als gebruiker wil ik met een Telegram bot kunnen communiceren om afspraken in mijn Google Calendar te zetten, zodat ik snel en eenvoudig afspraken kan inplannen zonder de Google Calendar-app te openen.  
   - **User Story 2:**  
@@ -29,7 +32,7 @@ Dit project is een AI-gestuurde Telegram-bot gebouwd met **n8n**. De bot helpt g
   - **User Story 5:**  
     Als gebruiker wil ik dat de AI-assistent periodiek mijn agenda doorneemt en samenvattingen geeft, zodat ik een overzicht heb van mijn week zonder zelf mijn agenda te hoeven bekijken.  
 
-### **Taakverdeling en Prioriteiten**  
+### **Prioriteitenlijst**  
 | Taak               | Prioriteit | Tijdinschatting |
 |--------------------|------------|-----------------|
 | User Story 1       | Hoog       | 8 uur           |
@@ -41,15 +44,20 @@ Dit project is een AI-gestuurde Telegram-bot gebouwd met **n8n**. De bot helpt g
 ---
 
 ### **Dag 3 - Woensdag**  
-- User Story 1 en 2 bouwen.  
-- Telegram Trigger connecten met AI Agent Node.  
+- Standup met team.
+- Starten met User Story 1 en 2 bouwen.  
 
 ### **Dag 4 - Donderdag**  
-- User Story 3 afmaken, doorgaan met User Stories 1 en 2.  
+- Standup met team.
+- Plan bijwerken.
+- User Story 3 starten en afmaken.
+- Afronden User Stories 1 en 2.  
 
 ### **Dag 5 - Vrijdag**  
-- User Story 2 afmaken.  
-
+- Standup met team.
+- Triggers controleren.
+- Demo-flow testen meerdere keren.
+- Presentatie voorbereiden.
 ---
 
 ## **Reflectie**  
