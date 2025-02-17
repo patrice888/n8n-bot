@@ -1,17 +1,12 @@
 # **n8n-bot**  
 
-Dit project is een AI-gestuurde Telegram-bot gebouwd met **n8n**. De bot helpt gebruikers met:  
-- Het plannen van afspraken in **Google Calendar**  
-- Het versturen van **Emails met Gmail**
-- Het ophalen en samenvatten van events in **Google Calender**
-- Het beantwoorden van vragen via **OpenAI's Chat Model**  
-
----
+Dit project is een AI-gestuurde Telegram-bot gebouwd met **n8n**.
 
 ## **Functionaliteiten**  
 - **Afspraken maken:** Plan afspraken direct in Google Calendar via Telegram.  
-- **Agenda bekijken:** Haal een overzicht op van je komende afspraken.  
-- **E-mails versturen:** Stuur snel Gmail-berichten zonder je e-mailclient te openen.  
+- **Agenda bekijken:** Haalt een overzicht op van je komende afspraken.  
+- **E-mails versturen:** Stuur snel Gmail-berichten zonder je e-mail te openen.
+- **Agenda events ophalen:**  Haalt je opkomende events op zonder google calendar te openen.
 - **AI-assistent:** Gebruik OpenAI om vragen te beantwoorden en slimme interacties te voeren.  
 
 ---
@@ -69,11 +64,11 @@ Dit project is een AI-gestuurde Telegram-bot gebouwd met **n8n**. De bot helpt g
 
 ## **Reflectie**  
 ### **Wat ging er goed:**  
-- De samenwerking ging goed en we begrepen elkaar goed tijdens het bouwen.  
+- De samenwerking ging goed en we begrepen elkaar duidelijk tijdens het bouwen van het project.  
 
 ### **Wat ging er niet goed:**  
 - Het was vervelend dat we niet tegelijk in dezelfde workflow konden werken. Hierdoor moesten we alles op één laptop doen, wat het lastig maakte om efficiënt te bouwen.  
-- De planning volgen lukte niet; deadlines die we voor onszelf hadden gesteld, werden niet gehaald. Hierdoor hebben we twee user stories niet kunnen afronden.  
+- De planning volgen lukte niet helemaal. Deadlines die we voor onszelf hadden gesteld, werden niet altijd behaald. Hierdoor hebben we de twee laatste user stories niet kunnen afronden.  
 
 ### **Wat kan er beter:**  
 - De volgende keer een meer realistische planning maken en de taken beter verdelen.  
